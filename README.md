@@ -1,7 +1,7 @@
 # Face Match - DeepFace
 Este repositório possui como objetivo entender como a biblioteca DeepFace funciona e quais recursos estão disponíveis para realizar principalmente face match
 
-[Vídeo com todas as explicações deepface]()
+[Vídeo com todas as explicações](https://youtu.be/DMKXeIHq9gw)
 
 ## Pré-requisitos
 Não existem requisitos específicos, mas segue abaixo as versões das principais bibliotecas utilizadas:
